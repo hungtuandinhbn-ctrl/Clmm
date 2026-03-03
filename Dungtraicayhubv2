@@ -1,0 +1,7 @@
+-- this script created at https://lambloxfruitscript.vercel.app/
+getgenv().ScriptTitle = "Dũng trái cây Hub[Premium]"
+getgenv().ScriptSubTitle = "Dũng trái cây Hub-khoá bản quyền miễn phí"
+getgenv().ScriptImage = "https://i.ibb.co/HfSC4vWS/885.jpg"
+getgenv().ScriptAuthorName = "By Tiến Dũng"
+getgenv().ScriptAuthorSubTitle = "Author Info"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hoannhatz/Script/refs/heads/main/EZScript.lua"))()
